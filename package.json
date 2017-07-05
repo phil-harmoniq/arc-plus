@@ -1,0 +1,22 @@
+{
+    "name": "darc-plus",
+    "displayName": "darc-plus",
+    "description": "Color theme inspired by Arc, Dark+, and Material.",
+    "version": "0.0.1",
+    "publisher": "ph-hawkins",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darc+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darc+-color-theme.json"
+            }
+        ]
+    }
+}
