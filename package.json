@@ -1,9 +1,14 @@
 {
-    "name": "darc-plus",
-    "displayName": "Darc+",
-    "description": "A color theme inspired by Arc, Dark+ , and Material",
+    "name": "arc-plus",
+    "displayName": "Arc+",
+    "description": "A color theme inspired by Arc, Material, and Dark+",
     "version": "0.0.1",
     "publisher": "ph-hawkins",
+    "license": "MIT",
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/phil-harmoniq/arc-plus"
+    },
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -13,9 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dark+",
+                "label": "Arc+",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dark+-color-theme.json"
+                "path": "./themes/arc-color-theme.json"
             }
         ]
     }
