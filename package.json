@@ -1,32 +1,42 @@
 {
-	"name": "arc-plus",
-	"displayName": "Arc+",
-	"description": "A color theme inspired by Arc, Material, and Dark+",
-	"version": "0.2.5",
-	"publisher": "ph-hawkins",
-	"license": "MIT",
-	"repository": {
-		"type": "GitHub",
-		"url": "https://github.com/phil-harmoniq/arc-plus"
-	},
-	"engines": {
-		"vscode": "^1.13.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Arc+",
-				"uiTheme": "vs-dark",
-				"path": "./themes/arc-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "a3bb6796-b644-4e8b-9b7a-f42f2a69c9e9",
-		"publisherId": "06764748-f43e-44ac-8c73-682133c8abbc",
-		"publisherDisplayName": "Phil Hawkins"
-	}
+    "name": "arc-plus",
+    "displayName": "Arc+",
+    "description": "A color theme inspired by Arc, Material, and Dark+",
+    "version": "0.2.6",
+    "publisher": "ph-hawkins",
+    "license": "MIT",
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/phil-harmoniq/arc-plus"
+    },
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arc+ (Dark Blue)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arc-dark-blue.json"
+            },
+            {
+                "label": "Arc+ (Dark Purple)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arc-dark-purple.json"
+            },
+            {
+                "label": "Arc+ (Dark Monochrome)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arc-dark-monochrome.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "a3bb6796-b644-4e8b-9b7a-f42f2a69c9e9",
+        "publisherId": "06764748-f43e-44ac-8c73-682133c8abbc",
+        "publisherDisplayName": "Phil Hawkins"
+    }
 }
