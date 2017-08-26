@@ -2,7 +2,7 @@
     "name": "arc-plus",
     "displayName": "Arc+",
     "description": "A color theme inspired by Arc, Material, and Dark+",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "publisher": "ph-hawkins",
     "license": "MIT",
     "repository": {
@@ -15,6 +15,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
