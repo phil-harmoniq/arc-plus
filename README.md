@@ -8,4 +8,4 @@ Arc+ brings the [Arc GTK theme](https://github.com/horst3180/arc-theme) into Vis
 
 ![Colors Example](https://imgur.com/W38sTmQ.png)
 
-![Light Theme](https://imgur.com/33yRIrH.png)
+![Light Theme](httpS://imgur.com/HOvRvJa.png)
