@@ -1,4 +1,5 @@
 {
+	"name": "Arc+ (Light)",
 	"type": "light",
 	"colors": {
 		"editor.background": "#f3f3f3",

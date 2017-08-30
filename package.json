@@ -2,7 +2,7 @@
 	"name": "arc-plus",
 	"displayName": "Arc+",
 	"description": "A color theme inspired by Arc, Material, and Dark+",
-	"version": "0.2.7",
+	"version": "0.2.9",
 	"publisher": "ph-hawkins",
 	"license": "MIT",
 	"repository": {
@@ -34,7 +34,7 @@
 				"path": "./themes/arc-dark-monochrome.json"
 			},
 			{
-				"label": "Arc+ (Light Monochrome)",
+				"label": "Arc+ (Light)",
 				"uiTheme": "vs",
 				"path": "./themes/arc-light-monochrome.json"
 			}
