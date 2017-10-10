@@ -13,3 +13,5 @@ The dark theme has three color accents: blue, purple, and monochrome:
 Fully compatible with the light Arc theme:
 
 ![Light Theme](https://imgur.com/33yRIrH.png)
+
+(Screenshots are using the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme))
