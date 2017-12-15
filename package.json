@@ -21,7 +21,12 @@
             {
                 "label": "Arc+",
                 "uiTheme": "vs-dark",
-                "path": "./themes/arc-plus.json"
+                "path": "./themes/arc-plus-dark.json"
+            },
+            {
+                "label": "Arc+ (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/arc-plus-light.json"
             },
             {
                 "label": "Arc+ (Dark Blue)",
@@ -39,7 +44,7 @@
                 "path": "./themes/arc-dark-monochrome.json"
             },
             {
-                "label": "Arc+ (Light)",
+                "label": "Arc+ (Light Monochrome)",
                 "uiTheme": "vs",
                 "path": "./themes/arc-light-monochrome.json"
             },
