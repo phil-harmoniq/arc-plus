@@ -2,7 +2,10 @@
 	"name": "Arc+",
 	"type": "dark",
 	"colors": {
+		"foreground": "#e3e3e3",
 		"input.background": "#1d1f23",
+		"input.foreground": "#d7dae0",
+		"input.placeholderForeground": "#70797e",
 		"dropdown.background": "#1d1f23",
 		"dropdown.border": "#181a1f",
 		"list.focusBackground": "#383e4a",
@@ -19,7 +22,7 @@
 		"scrollbarSlider.hoverBackground": "#5a637580",
 		"scrollbarSlider.activeBackground": "#747d9180",
 		"editor.background": "#21252b",
-		"editor.foreground": "#d4d4d4",
+		"editor.foreground": "#dfdfdf",
 		"editorWidget.background": "#2f343f",
 		"editor.selectionBackground": "#3e4451",
 		"editor.inactiveSelectionBackground": "#3a3d41",
@@ -42,11 +45,12 @@
 		"editorGroup.background": "#181a1f",
 		"editorGroupHeader.tabsBackground": "#2f343f",
 		"editorGroup.border": "#181a1f",
+		"editorCodeLens.foreground": "#89949a",
 		"statusBar.foreground": "#f3f3f3",
 		"statusBar.background": "#0277bd",
 		"statusBar.noFolderBackground": "#0277bd",
 		"activityBar.background": "#21252b",
-		"activityBar.foreground": "#d7dae0",
+		"activityBar.foreground": "#eeeeee",
 		"activityBarBadge.background": "#d7dae0",
 		"activityBarBadge.foreground": "#21252b",
 		"sideBar.background": "#2f343f",
@@ -69,7 +73,8 @@
 		"peekViewEditor.background": "#1d1f23",
 		"peekViewEditorGutter.background": "#1d1f23",
 		"peekViewResult.selectionBackground": "#383e4a",
-		"peekViewResult.matchHighlightBackground": "#748B99"
+		"peekViewResult.matchHighlightBackground": "#748B99",
+		"gitDecoration.ignoredResourceForeground": "#89949a"
 	},
 	"tokenColors": [
 		{

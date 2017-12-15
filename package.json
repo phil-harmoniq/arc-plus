@@ -2,7 +2,7 @@
     "name": "arc-plus",
     "displayName": "Arc+",
     "description": "A color theme inspired by Arc, Material, and Dark+",
-    "version": "0.3.2",
+    "version": "0.3.3",
     "publisher": "ph-hawkins",
     "license": "MIT",
     "repository": {
@@ -19,6 +19,16 @@
     "contributes": {
         "themes": [
             {
+                "label": "Arc+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arc-plus-dark.json"
+            },
+            {
+                "label": "Arc+ (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/arc-plus-light.json"
+            },
+            {
                 "label": "Arc+ (Dark Blue)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/arc-dark-blue.json"
@@ -34,7 +44,7 @@
                 "path": "./themes/arc-dark-monochrome.json"
             },
             {
-                "label": "Arc+ (Light)",
+                "label": "Arc+ (Light Monochrome)",
                 "uiTheme": "vs",
                 "path": "./themes/arc-light-monochrome.json"
             },
