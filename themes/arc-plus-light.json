@@ -1,5 +1,5 @@
 {
-	"name": "Arc+ (Light Monochrome)",
+	"name": "Arc+ (Light)",
 	"type": "light",
 	"colors": {
 		"editor.background": "#f3f3f3",
@@ -13,10 +13,10 @@
 		"button.background": "#e7e8eb",
 		"badge.background": "#e7e8ebaa",
 		"progressBar.background": "#e7e8eb",
-		"statusBar.background": "#e7e8eb",
-		"statusBar.foreground": "#6c6c6c",
-		"statusBar.noFolderBackground": "#e7e8eb",
-		"statusBar.debuggingBackground": "#e7e8eb",
+		"statusBar.foreground": "#f3f3f3",
+		"statusBar.background": "#0277bd",
+		"statusBar.noFolderBackground": "#0277bd",
+		"statusBar.debuggingBackground": "#c85205",
 		"activityBar.background": "#e7e8eb",
 		"activityBar.foreground": "#6c6c6c",
 		"activityBarBadge.background": "#6c6c6c",
