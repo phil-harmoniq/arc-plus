@@ -2,7 +2,7 @@
 
 [Marketplace]: https://vsmarketplacebadge.apphb.com/version-short/ph-hawkins.arc-plus.svg
 
-**Light theme now available!**
+**New and improved style!**
 
 Arc+ is a UI theme based on the [Arc GTK theme](https://github.com/horst3180/arc-theme) while also retaining some elements of the default VS Code theme. Light and dark variants are available.
 
