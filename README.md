@@ -2,16 +2,16 @@
 
 [Marketplace]: https://vsmarketplacebadge.apphb.com/version-short/ph-hawkins.arc-plus.svg
 
-**Light theme now available!**
+**New and improved style!**
 
-Arc+ brings the [Arc GTK theme](https://github.com/horst3180/arc-theme) into Visual Studio Code with some small asthetic changes loosely based off of the [Fresh Material](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material) Code theme. Light *and* dark themes are available.
+Arc+ is a UI theme based on the [Arc GTK theme](https://github.com/horst3180/arc-theme) while also retaining some elements of the default VS Code theme. Light and dark variants are available.
 
-The dark theme has three color accents: blue, purple, and monochrome:
+![Dark Theme Example](https://i.lensdump.com/i/oqdNC.png)
+![Dark Theme Debug Example](https://i.lensdump.com/i/oq93v.png)
 
-![Colors Example](https://imgur.com/W38sTmQ.png)
+Light theme:
 
-Fully compatible with the light Arc theme:
-
-![Light Theme](https://imgur.com/33yRIrH.png)
+![Light Theme Example](https://i.lensdump.com/i/oqBW5.png)
+![Light Theme Debug Example](https://i.lensdump.com/i/oqm9z.png)
 
 (Screenshots are using the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme))
