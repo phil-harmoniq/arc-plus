@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="arc-plus" Version="0.2.9" Publisher="ph-hawkins"/>
+    <Identity Language="en-US" Id="arc-plus" Version="1.0.2" Publisher="ph-hawkins"/>
     <DisplayName>Arc+</DisplayName>
     <Description xml:space="preserve">A color theme inspired by Arc, Material, and Dark+</Description>
     <Tags>theme,color-theme</Tags>
