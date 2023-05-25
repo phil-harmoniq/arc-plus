@@ -16,6 +16,7 @@
         "list.hoverBackground": "#292d35",
         "list.dropBackground": "#383b3d",
         "list.highlightForeground": "#c5c5c5",
+		"quickInputList.focusBackground": "#181a1f",
         "menubar.selectionBackground": "#2f343f",
         "button.background": "#404754",
         "badge.background": "#21252b",
